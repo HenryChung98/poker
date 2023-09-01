@@ -1,0 +1,13 @@
+html{
+  background-image: url("../imgs/background2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+
+}
+
+#buttonBox{
+  position: absolute;
+  top: 800px;
+}

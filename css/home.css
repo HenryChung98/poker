@@ -1,0 +1,28 @@
+#token{
+  color: white;
+}
+
+
+ul{
+  margin: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-70%);
+
+  list-style: none;
+  color: rgb(110, 104, 157);
+  font-size: 50px;
+  text-align: center;
+  border: 0;
+  background-color: transparent;
+}
+
+li{
+  transition: .5s;
+}
+
+li:hover{
+  -webkit-text-stroke: 2px rebeccapurple;
+  color: rebeccapurple;
+}
